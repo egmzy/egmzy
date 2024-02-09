@@ -1,5 +1,3 @@
-![](./assets/background.png)
-
 <div>
 
 <h3>Building a CLI with Node.js</h3>
