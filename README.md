@@ -1,8 +1,5 @@
 ![](./assets/background.png)
 
-<br>
-<h2 align="center">My Articles</h2>
-
 <div align="center">
 
 [![Building a CLI with Node.js in 2024?](./assets/1.png)](https://egmz.medium.com)
