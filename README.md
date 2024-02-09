@@ -1,4 +1,7 @@
-<h1 align="center">Full Stack Developer</h1>
+![](./assets/background.png)
+
+<br>
+<h2 align="center">My Articles</h2>
 
 <div align="center">
 
