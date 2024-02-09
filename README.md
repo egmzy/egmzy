@@ -2,22 +2,20 @@
 
 <div>
 
-<hr>
-<h4>Building a CLI with Node.js</h4>
+<h3>Building a CLI with Node.js</h3>
 
 [![Building a CLI with Node.js in 2024](./assets/1.png)](https://egmz.medium.com)
 
-<hr>
+<br>
 
-<h4>Wait, What’s GitOps?</h4>
+<h3>Wait, What’s GitOps?</h3>
 
 [![Wait, What’s GitOps?](./assets/3.png)](https://medium.com/nmc-techblog/wait-whats-gitops-a9c257162df8)
 
-<hr>
+<br>
 
-<h4>My 7 Favorite Development News Sources in 2024</h4>
+<h3>My 7 Favorite Development News Sources in 2024</h3>
 
 [![My 7 Favorite Development News Sources in 2024](./assets/2.png)](https://medium.com/nmc-techblog/my-7-favorite-development-news-sources-in-2024-8540a2a8a733)
 
-<hr>
 </div>
